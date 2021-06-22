@@ -13,6 +13,11 @@ This project completed the comparison of the three methods of cutmix, cutout, mi
 - matplotlib   2.2.4
 - numpy
 
+#### Weights & Logs
+
+Weights: 放置 **./深度学习课程final_pj/originnet3/weights**  文件夹下
+
+logs 用于tensorboard display 放置 **./深度学习课程final_pj/originnet3/logs** 文件夹下 
 
 
 ### Run model and tensorboard display
@@ -24,6 +29,9 @@ The baseline used in this project is the Resnet network, and the design compares
 ```python
 python3 run_train_test.py --method 'cutout'
 ```
+
+
+
 
 #### Accuarcy and Loss 
 
