@@ -36,4 +36,4 @@ As follow:
 <img src="./2.png" alt="2" style="zoom: 33%;" />
 
 #### PR-Curve:
-<img src="./3.png" alt="2" style="zoom: 33%;" />
+<img src="./3.png" alt="2" style="zoom: 30%;" />
