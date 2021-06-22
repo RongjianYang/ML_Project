@@ -1,0 +1,10 @@
+1.jpg dog 5
+2.jpg bird 2
+3.jpg cat 3
+4.jpg ship 8
+5.jpg airplane 0
+6.jpg truck 9
+7.jpg frog 6
+8.jpg horse 7
+9.jpg airplane 0
+10.jpg automobile 1
